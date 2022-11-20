@@ -1,7 +1,9 @@
 # kotlin-get-started-api
+
 API to learn Kotlin
 
 https://spring.pleiades.io/guides/tutorials/spring-boot-kotlin/
+https://github.com/spring-guides/tut-spring-boot-kotlin
 
 ```bash
 # Starter
